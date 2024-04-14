@@ -1,29 +1,38 @@
-# Medical Query Generator
+<h1 align="center">Medical Assistant</h1>
+<h3 align="center">Healthcare Recommendation System</h3>
 
-A Flask web application that uses Google's GenerativeAI (Gemini) to generate medical responses based on user input. The application simulates a medical expert providing accurate advice to a patient's query.
+<p align="center">About the project</p>
+<p align="center">
+    <img src="https://img.shields.io/github/forks/nandita27iitp/medical-assistant">
+    <img src="https://img.shields.io/github/stars/nandita27iitp/medical-assistant"><br><br>
+    A Flask web application that uses Google's GenerativeAI (Gemini) to generate medical responses based on user input. The application simulates a medical expert providing accurate advice to a patient's query.
+<br>
+</p>
 
-## About The Project
+<p align="center">Tech Stack</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/googleapi-%231572B6.svg?style=for-the-badge&logo=GoogleAPI&logoColor=white">
+    <img src="https://img.shields.io/badge/GenAI-FF6C37?style=for-the-badge&logo=genAI&logoColor=white">
+    <img src="https://img.shields.io/badge/html-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%23F7DF1E">
+</p>
+<br>
 
-The Medical Query Generator is a web application that leverages Google's GenerativeAI to generate detailed and accurate medical responses. Users input medical queries, and the application provides responses adhering to specific guidelines for clarity, accuracy, and informativeness.
+## Inspiration for the Project:
 
-## Getting Started
+The inspiration stems from the desire to leverage cutting-edge technology to improve access to accurate and detailed medical information. In today's digital age, individuals often turn to the internet for medical advice and information about their health concerns. However, the quality and accuracy of online medical content can vary widely, leading to confusion and misinformation.
 
-To get started with the project, follow the steps below.
+By harnessing the power of Google's Generative AI, the Medical Assistant aims to address this challenge by providing users with detailed and accurate medical responses that adhere to specific guidelines for clarity, accuracy, and informativeness. This innovative approach allows users to input their medical queries and receive reliable information in return, helping them make informed decisions about their health.
 
-### Prerequisites
-
-- Google API Key
-- Google Generativeai
-- Flask
-- Python Dotenv
+The inspiration behind the Medical Assistant is to empower individuals with access to trustworthy medical information, ultimately improving health outcomes and promoting well-being. By combining advanced technology with a commitment to accuracy and clarity, the Medical Assistant seeks to bridge the gap between users and reliable medical knowledge in an accessible and user-friendly manner.
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KalyanMurapaka45/Medical-Assisstant.git
-   cd medical-query-generator
+   git clone https://github.com/nandita27iitp/medical-assistant.git
    ```
 
 2. Install dependencies:
@@ -52,22 +61,6 @@ To get started with the project, follow the steps below.
 2. Input a medical query following the provided guidelines.
 3. Click the "Generate Response" button to obtain a detailed medical response.
 
-## Contributing
 
-Contributions to the Medical Query Generator are welcome! If you have suggestions, enhancements, or bug fixes, please follow the steps below:
 
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## Contact
-
-- Your Name - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
-
-Project Link: [https://github.com/KalyanMurapaka45/Medical-Assisstant](https://github.com/KalyanMurapaka45/Medical-Assisstant)
