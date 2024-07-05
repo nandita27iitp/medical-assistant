@@ -61,6 +61,10 @@ The inspiration behind the Medical Assistant is to empower individuals with acce
 2. Input a medical query following the provided guidelines.
 3. Click the "Generate Response" button to obtain a detailed medical response.
 
+##Screenshots
+
+![image](https://github.com/nandita27iitp/medical-assistant/assets/94813932/219ba807-6f7b-4936-a1de-ca59bd7c5216)
+
 
 
 
