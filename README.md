@@ -1,4 +1,4 @@
-<h1 align="center">Medical Assistant</h1>
+<h1 align="center">CareGenius AI</h1>
 <h3 align="center">Healthcare Recommendation System</h3>
 
 <p align="center">About the project</p>
